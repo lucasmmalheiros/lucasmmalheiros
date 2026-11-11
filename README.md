@@ -5,6 +5,11 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/lucas-malheiros-45669030a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lucasmalheiros.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
   <a href="#english">English</a> · <a href="#português">Português</a>
 </p>
 
@@ -54,8 +59,3 @@
 |---|---|---|
 | [**nome-do-projeto**](https://github.com/lucasmmalheiros/nome-do-projeto) | EN: what it does. PT: o que faz. | Java |
 -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-malheiros-45669030a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:lucasmalheiros.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
