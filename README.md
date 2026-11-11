@@ -16,7 +16,7 @@
 - Building a solid foundation in programming, data structures and software development
 - **Looking for an internship** in software development
 - Constantly learning through hands-on projects
-- Reach me at: **teste**
+- Reach me at: [lucasmalheiros.dev@gmail.com](mailto:lucasmalheiros.dev@gmail.com)
 
 ## Português
 
@@ -24,7 +24,7 @@
 - Construindo uma base sólida em programação, estruturas de dados e desenvolvimento de software
 - **Em busca de estágio** em desenvolvimento de software
 - Sempre aprendendo com projetos práticos
-- Contato: **teste**
+- Contato: [lucasmalheiros.dev@gmail.com](mailto:lucasmalheiros.dev@gmail.com)
 
 ---
 
@@ -56,5 +56,5 @@
 -->
 
 <p align="center">
-  <a href="mailto:teste"><img src="https://img.shields.io/badge/Email-Contact%20me-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:lucasmalheiros.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
